@@ -5,9 +5,9 @@
 </p>
 <br>
 
-<b>Instructors:</b>
-<b>1. Rav Ahuja </b> - Global Program Director,IBM
-<b>2. Hima Vasudevan </b>- Data Scientist, IBM
+<b>Instructors:</b><b><br>
+1. Rav Ahuja </b> - Global Program Director,IBM<b>
+2. Hima Vasudevan </b>- Data Scientist, IBM
 
 
 <b> Course Link :</b> <a href = "https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">Databases and SQL for Data Science</a>
