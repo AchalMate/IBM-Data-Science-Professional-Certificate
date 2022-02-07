@@ -5,12 +5,12 @@
 </p>
 <br>
 
-**Instructors: **
+** Instructors: **
 1. Rav Ahuja - Global Program Director,IBM
 2. Hima Vasudevan - Data Scientist, IBM
 
 
-**Course Link : ** <a href = "https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">Databases and SQL for Data Science</a>
+** Course Link : ** <a href = "https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">Databases and SQL for Data Science</a>
 ## About this Course
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
