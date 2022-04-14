@@ -1,4 +1,4 @@
-# Databases and SQL for Data Science
+# Machine Learning with Python
 ## Week 1 - Getting Started with SQL
 <br>
 <p align="center">
