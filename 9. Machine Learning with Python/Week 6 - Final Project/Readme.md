@@ -1,5 +1,4 @@
 # Machine Learning with Python
-## Week 1 - Getting Started with SQL
 <br>
 <p align="center">
  <img src="https://github.com/AchalMate/IBM-Data-Science-Professional-Certificate/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" />
@@ -7,16 +6,20 @@
 <br>
 
 <b>Instructors:</b><b><br>
-1. Rav Ahuja </b> - Global Program Director,IBM<b>
-2. Hima Vasudevan </b>- Data Scientist, IBM
+1. SAEED AGHABOZORGI </b> - Ph.D., Sr. Data Scientist,IBM<b>
+2. Joseph Santarcangelo </b>- Ph.D., Data Scientist, IBM
 
 
-<b> Course Link :</b> <a href = "https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">Databases and SQL for Data Science</a>
-<br>
+<b> Course Link :</b> <a href = "https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science">Machine Learning with Python</a>
+## About this Course
+The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
-## Learning Objectives<br>
-- Create and execute basic SQL statements on a live database
-- Demonstrate how to write basic SQL statements
-- Describe SQL and Databases
-- Explain the syntax of basic SQL statements
+The emphasis in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python
 
+## Program Overview
+- Week 1: Getting Started with SQL
+- Week 2: Introduction to Relational Databases and Tables
+- Week 3: Intermediate SQL
+- Week 4: Accessing Databases using Python
+- Week 5: Course Assignment
+- Week 6: Bonus Module Advanced SQL for Data Engineering (Honors)
