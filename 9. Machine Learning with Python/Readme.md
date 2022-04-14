@@ -1,4 +1,4 @@
-# Databases and SQL for Data Science
+# Machine Learning with Python
 <br>
 <p align="center">
  <img src="https://github.com/AchalMate/IBM-Data-Science-Professional-Certificate/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" />
